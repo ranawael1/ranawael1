@@ -6,9 +6,9 @@
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
-- :school: I graduatedd from Faculty of Engineering (Computers & Systems Department) 
-- <!---  - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) --->
+ 
+ <!---  - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) --->
+- :school: I am graduated from Faculty of Engineering (Computers & Systems Department) 
 - 🌱 I’m currently learning `Angular`
 - 📫 How to reach me **ranawael.work@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/10-y9zXe_CghDl8LTR9B18-dpOjvMlBzZ/view?usp=sharing).
