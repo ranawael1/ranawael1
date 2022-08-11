@@ -9,7 +9,7 @@
  
  <!---  - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) --->
 - :school: I am graduated from Faculty of Engineering (Computers & Systems Department) 
-- 🌱 I’m currently learning `Angular`
+- 🌱 I’m currently learning `Angular` and `Rasa (for chatbots)`
 - 📫 How to reach me **ranawael.work@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/10-y9zXe_CghDl8LTR9B18-dpOjvMlBzZ/view?usp=sharing).
 - :nerd_face: Always `learning new things`
