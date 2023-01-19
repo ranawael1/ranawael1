@@ -11,7 +11,7 @@
 - :school: I am graduated from Faculty of Engineering (Computers & Systems Department) 
 - 🌱 I’m currently learning `InfluxDB` and `Timesries Charts`
 - 📫 How to reach me **ranawael.work@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1CAa-jEPGcnyx8c11NchJ-p9peraF2QBF/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1NJ5u3nnizaBPztZExdRxLs34m5nXOLri/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
